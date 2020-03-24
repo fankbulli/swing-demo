@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dba546d3-33fb-484f-8898-827b9ff0bc97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\soft\apache-maven-3.5.4-bin\repository" />
+        <option name="mavenHome" value="C:/soft/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\soft\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YL3M9GNH17uMZdNgu64FiAM7oa" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zxd\IdeaProjects\IDCARD_READ\src\main\resources" />
+      <recent name="C:\Users\zxd\IdeaProjects\IDCARD_READ\src\main\java" />
+      <recent name="C:\Users\zxd\IdeaProjects\IDCARD_READ" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zxd\IdeaProjects\IDCARD_READ" />
+      <recent name="C:\Users\zxd\IdeaProjects\IDCARD_READ\src\main\java" />
+      <recent name="C:\Users\zxd\IdeaProjects\IDCARD_READ\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EventDemo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="IDCARD_READ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EventDemo" />
+      <module name="IDCARD_READ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IDCardInfoManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IDCardInfoManager" />
+      <module name="IDCARD_READ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MemberInfo" />
+      <module name="IDCARD_READ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ll" />
+      <module name="IDCARD_READ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EventDemo" />
+        <item itemvalue="Application.MemberInfo" />
+        <item itemvalue="Application.IDCardInfoManager" />
+        <item itemvalue="Application.ll" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba546d3-33fb-484f-8898-827b9ff0bc97" name="Default Changelist" comment="" />
+      <created>1582707996400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582707996400</updated>
+      <workItem from="1582707998070" duration="26418000" />
+      <workItem from="1582855480876" duration="9249000" />
+      <workItem from="1583198968917" duration="71000" />
+      <workItem from="1583199351634" duration="3639000" />
+      <workItem from="1583214462270" duration="4819000" />
+      <workItem from="1583291869329" duration="4367000" />
+      <workItem from="1585020558162" duration="1050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="960" y="178" key="#Project_Structure" timestamp="1582857216990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="960" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582857216990" />
+    <state x="822" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582708090531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582708090531" />
+    <state x="687" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582856963672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582856963672" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1583200787608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583200787608" />
+    <state x="1119" y="370" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582793663476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1119" y="370" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582793663476" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583292552474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583292552474" />
+    <state x="796" y="329" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1583293478313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="796" y="329" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583293478313" />
+    <state x="714" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582714198370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1582714198370" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1582775779235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582775779235" />
+    <state x="846" y="315" key="FileChooserDialogImpl" timestamp="1583226008733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="846" y="315" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583226008733" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1583302833521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583302833521" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1583302833521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583302833521" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1583302833521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583302833521" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1583302833521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583302833521" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1583302833521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583302833521" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1583302833521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583302833521" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1583302833521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583302833521" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1583302833521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583302833521" />
+    <state x="546" y="158" width="1040" height="834" key="SettingsEditor" timestamp="1583294007408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="158" width="1040" height="834" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583294007408" />
+    <state x="895" y="433" key="classpath-attribute-editor" timestamp="1583293456700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="895" y="433" key="classpath-attribute-editor/0.0.1920.1040@0.0.1920.1040" timestamp="1583293456700" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582775779235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582775779235" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582770964477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582770964477" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IDCARD_READ$EventDemo.ic" NAME="EventDemo Coverage Results" MODIFIED="1582860696634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
